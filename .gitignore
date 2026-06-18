@@ -1,3 +1,0 @@
-notebooks/models/clf_columns.pkl notebooks/models/clf_model.pkl notebooks/models/label_encoders.pkl notebooks/models/mlb_encoder.pkl notebooks/models/reg_columns.pkl notebooks/models/reg_model.pkl
-notebooks/models/
-*.pkl
