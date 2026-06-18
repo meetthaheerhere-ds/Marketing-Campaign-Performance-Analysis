@@ -1,2 +1,0 @@
-cd C:\Users\THAHEER\OneDrive\Desktop\Marketing_Campaign_project
-python -m streamlit run app.py
