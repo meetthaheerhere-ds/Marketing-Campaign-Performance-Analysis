@@ -2,8 +2,6 @@
 
 An end-to-end data analytics and machine learning project analyzing marketing campaign performance across three beauty brands — **Nykaa, Purplle, and Tira** — from raw CSV data through EDA and ML modeling to an interactive Streamlit dashboard with a live prediction module.
 
-🔗 **Live Demo:** *add your Streamlit Cloud link here after deploying*
-
 ![Dashboard Overview](screenshots/dashboard_overview.jpeg)
 
 ---
