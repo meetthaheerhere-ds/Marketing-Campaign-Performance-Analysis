@@ -145,7 +145,7 @@ streamlit run app.py
 
 ## 📌 Future Enhancements
 
-- Deploy on Streamlit Community Cloud and link the live demo above
+- Deploy on Streamlit Community Cloud 
 - Review the classification and regression feature sets for potential data leakage (e.g. features directly derived from the prediction target) to ensure evaluation metrics reflect genuine model performance
 - Reduce `reg_model.pkl` size (e.g. via `max_depth`/`min_samples_leaf` constraints or compressed serialization) so it can be committed directly to the repo
 - Add a correlation heatmap and SQL-style query explorer to the dashboard itself (currently only in the notebook)
