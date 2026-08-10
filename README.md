@@ -4,7 +4,7 @@ An end-to-end data analytics and machine learning project analyzing marketing ca
 
 🔗 **Live Demo:** *add your Streamlit Cloud link here after deploying*
 
-![Dashboard Overview](Screenshots/dashboard_overview.jpeg)
+![Dashboard Overview](screenshots/dashboard_overview.jpeg)
 
 ---
 
@@ -43,20 +43,20 @@ Marketing teams across multiple brands generate large volumes of raw campaign da
 ## 📸 Screenshots
 
 **Dashboard Overview — KPIs & Dataset Preview**
-![Dashboard Overview](Screenshots/dashboard_overview.jpeg)
+![Dashboard Overview](screenshots/dashboard_overview.jpeg)
 
 **Campaign Type Analysis**
-![Campaign Type Analysis](Screenshots/campaign_type_analysis.jpeg)
+![Campaign Type Analysis](screenshots/campaign_type_analysis.jpeg)
 
 **Brand-wise Revenue**
-![Brand-wise Revenue](Screenshots/brand_wise_revenue.jpeg)
+![Brand-wise Revenue](screenshots/brand_wise_revenue.jpeg)
 
 **Business Insights Panel**
-![Insights Panel](Screenshots/insights_panel.jpeg)
+![Insights Panel](screenshots/insights_panel.jpeg)
 
 **Revenue & Profitability Prediction**
-![Prediction Inputs](Screenshots/prediction_inputs.jpeg)
-![Prediction Result](Screenshots/prediction_result.jpeg)
+![Prediction Inputs](screenshots/prediction_inputs.jpeg)
+![Prediction Result](screenshots/prediction_result.jpeg)
 
 ---
 
@@ -83,7 +83,7 @@ Marketing-Campaign-Performance-Analysis/
 │       ├── clf_columns.pkl
 │       ├── mlb_encoder.pkl
 │       └── label_encoders.pkl
-├── Screenshots/
+├── screenshots/
 │   ├── dashboard_overview.jpeg
 │   ├── campaign_type_analysis.jpeg
 │   ├── brand_wise_revenue.jpeg
@@ -156,5 +156,5 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Thaheer**
-[GitHub](https://github.com/meetthaheerhere-ds)
+Thaheer
+
